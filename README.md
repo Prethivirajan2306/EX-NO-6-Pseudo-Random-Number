@@ -1,3 +1,6 @@
+## Name:Prethivirajan.L
+## Reg No:212224040251
+
 # EX-NO-6-Pseudo-Random-Number
 
 # AIM: 
@@ -11,6 +14,7 @@ Pass the value for number of iterations and print the numbers.
 End the program.
 
 # PROGRAM:
+```
 
 import random
 
@@ -49,7 +53,7 @@ import random
     secure_random = secrets.randbelow(100)
     print(f"Cryptographically Secure Random Integer: {secure_random}")
 
-
+```
 
 # OUTPUT:
 ![Screenshot 2025-03-27 092720](https://github.com/user-attachments/assets/50142cc4-5124-4927-a05d-e46ac7946015)
